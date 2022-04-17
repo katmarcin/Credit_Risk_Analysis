@@ -17,57 +17,56 @@ Six machine learning models were evaluated for this analysis: RandomOverSampler,
 
 * RandomOverSampler:
 
-  * Balanced Accuracy Score:
-  * Precision:
-  * Recall Score:
+  * Balanced Accuracy Score: 0.62
+  * Precision: 0.99
+  * Recall Score: 0.68
 
-<img src=“https://github.com/katmarcin/Credit_Risk_Analysis/blob/5175b484599a460545d5eace0887624011458d11/Module%2017/Module-17-Challenge-Resources/images/random_oversampling.png” width="450" height="250"/>
-
-<img src="images/Screen Shot 2022-04-10 at 11.50.47 PM.png" alt="Alt text" title="Optional title" width="450" height="250"/>
+<img src=“images/random_oversampling.png” alt="Alt text" title="Optional title" width="450" height="250"/>
 
  
 * SMOTE algorithm:
 
-  * Balanced Accuracy Score:
-  * Precision:
-  * Recall Score:
+  * Balanced Accuracy Score: 0.63
+  * Precision: 0.99
+  * Recall Score: 0.66
 
-<img src=“GitHub link in the form of permalink” height="320"/>
+<img src=“images/smote.png” alt="Alt text" title="Optional title" width="450" height="250"/>
  
   
 * ClusterCentroids algorithm:
 
-  * Balanced Accuracy Score:
-  * Precision:
-  * Recall Score:
+  * Balanced Accuracy Score: 0.63
+  * Precision: 0.99
+  * Recall Score: 0.66
 
-<img src=“GitHub link in the form of permalink” height="320"/>
+<img src=“images/clustered.png” alt="Alt text" title="Optional title" width="450" height="250"/>
  
 
 * SMOTEENN algorithm:
 
-  * Balanced Accuracy Score:
-  * Precision:
-  * Recall Score:
+  * Balanced Accuracy Score: 0.63
+  * Precision: 0.99
+  * Recall Score: 0.66
 
-<img src=“GitHub link in the form of permalink” height="320"/>
+<img src=“images/smoteenn.png” alt="Alt text" title="Optional title" width="450" height="250"/>
  
 
 * BalancedRandomForestClassifier:
-  * Balanced Accuracy Score:
-  * Precision:
-  * Recall Score:
 
-<img src=“GitHub link in the form of permalink” height="320"/>
+  * Balanced Accuracy Score: 0.67
+  * Precision: 0.99
+  * Recall Score: 0.91
+
+<img src=“images/brfc.png” alt="Alt text" title="Optional title" width="450" height="250"/>
  
 
 * EasyEnsembleClassifier:
 
-  * Balanced Accuracy Score:
-  * Precision:
-  * Recall Score:
+  * Balanced Accuracy Score: 0.91
+  * Precision: 0.99
+  * Recall Score: 0.94
 
-<img src=“GitHub link in the form of permalink” height="320"/>
+<img src=“images/eeac.png” alt="Alt text" title="Optional title" width="450" height="250"/>
  
 
 
