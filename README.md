@@ -21,7 +21,7 @@ Six machine learning models were evaluated for this analysis: RandomOverSampler,
   * Precision:
   * Recall Score:
 
-<img src=“images/random_oversampling.png” width="450" height="250"/>
+<img src=“https://github.com/katmarcin/Credit_Risk_Analysis/blob/5175b484599a460545d5eace0887624011458d11/Module%2017/Module-17-Challenge-Resources/images/random_oversampling.png” width="450" height="250"/>
 
 <img src="images/Screen Shot 2022-04-10 at 11.50.47 PM.png" alt="Alt text" title="Optional title" width="450" height="250"/>
 
